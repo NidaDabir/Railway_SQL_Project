@@ -62,3 +62,13 @@ ER Diagram is included in the project.
 **Nida Dabir**
 **B.Sc Data Science & Business Analytics**
 
+## ER Diagram
+
+![ER Diagram](ER_Diagram/sql train data ER diagram.png)
+
+## Sample Query Outputs
+
+![Delay Trend](Query%20Output%20Screenshots/Delay_Trend.png)
+
+![Revenue Analysis](Query%20Output%20Screenshots/Revenue_Analysis.png)
+
