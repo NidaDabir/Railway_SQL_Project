@@ -63,7 +63,9 @@ ER Diagram is included in the project.
 **B.Sc Data Science & Business Analytics**
 
 ## ER Diagram
-![ER Diagram](ER_Diagram/ER_Diagram.png)
+![ER Diagram](ER_Diagram/sql%20train%20data%20ER%20diagram.png)
+
+
 
 
 
@@ -72,6 +74,7 @@ ER Diagram is included in the project.
 ![Delay Trend](Query%20Output%20Screenshots/Delay_Trend.png)
 
 ![Revenue Analysis](Query%20Output%20Screenshots/Revenue_Analysis.png)
+
 
 
 
