@@ -54,9 +54,11 @@ The system helps identify:
 
 ER Diagram is included in the project.
 
+
 ---
 
 ## 👩‍💻 Author
 
 **Nida Dabir**
-B.Sc Data Science & Business Analytics
+**B.Sc Data Science & Business Analytics**
+
